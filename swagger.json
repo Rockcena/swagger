@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/Rockcena/swagger/main/swagger.yaml",
+  "urls": [
+      {
+          "url": "https://raw.githubusercontent.com/Rockcena/swagger/main/swagger.yaml",
+          "name": "Account"
+      }
+  ]
+}
+      summary: Signin
